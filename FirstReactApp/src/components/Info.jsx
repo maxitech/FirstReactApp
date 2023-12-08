@@ -7,9 +7,9 @@ function Info() {
       <h1>Maximilian Stadlmeyer</h1>
       <h2>Frontend Developer</h2>
       <div>
-        <a>maxstadlmeyer.dev</a>
+        <a href="#">maxstadlmeyer.dev</a>
       </div>
-      <a>Email</a>
+      <a href="#">Email</a>
     </div>
   );
 }

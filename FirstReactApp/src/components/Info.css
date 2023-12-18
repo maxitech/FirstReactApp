@@ -58,6 +58,7 @@
   gap: 0.5em;
   margin-top: 0.8em;
   margin-bottom: 1em;
+  transition: all 0.3s;
 }
 
 .email-link {
@@ -65,6 +66,12 @@
   color: #374151;
   font-size: 14px;
   font-weight: 500;
+}
+
+.email-btn:hover,
+.email-btn:active {
+  color: #fff;
+  background-color: #374151;
 }
 
 .email-icon {

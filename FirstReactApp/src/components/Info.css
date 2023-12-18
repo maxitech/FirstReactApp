@@ -17,6 +17,7 @@
 .contact-container {
   flex-direction: column;
   align-items: center;
+  padding: 0 1em;
 }
 
 .contact-container,
@@ -50,7 +51,8 @@
 }
 
 .email-btn {
-  width: 15.437em;
+  /* width: 17.643em; */
+  /* width: 100%; */
   align-items: center;
   justify-content: center;
   gap: 0.5em;
@@ -59,7 +61,7 @@
   border: none;
   border-radius: 6px;
 
-  padding: 0.562em 0;
+  padding: 0.562em 6.5em;
   margin-top: 0.8em;
   margin-bottom: 1em;
   transition: all 0.3s;

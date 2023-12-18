@@ -6,7 +6,7 @@
 
 .info-container {
   background-color: #1a1b21;
-  max-width: 317px;
+  max-width: 19.8em;
 }
 
 .profile-pic {
@@ -15,47 +15,51 @@
 }
 
 .contact-container {
-  display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.contact-container,
+.email-btn {
+  display: flex;
 }
 
 .name {
   color: #fff;
   font-size: 25px;
   font-weight: 700;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.025em;
   margin-top: 0.8em;
 }
 
 .job {
   color: #f3bf99;
-  font-size: 12.8px;
+  font-size: 0.8rem;
   font-weight: 400;
-  letter-spacing: 0.8px;
+  letter-spacing: 0.05em;
   margin-top: 0.2em;
 }
 
 .website-link {
   color: #f5f5f5;
-  font-size: 10px;
+  font-size: 0.625rem;
   font-weight: 400;
   text-decoration: none;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.02em;
   margin-top: 0.6em;
 }
 
 .email-btn {
-  display: flex;
+  width: 15.437em;
   align-items: center;
   justify-content: center;
-  width: 247px;
-  padding-top: 9px;
-  padding-bottom: 9px;
+  gap: 0.5em;
   background-color: #fff;
+
   border: none;
   border-radius: 6px;
-  gap: 0.5em;
+
+  padding: 0.562em 0;
   margin-top: 0.8em;
   margin-bottom: 1em;
   transition: all 0.3s;
@@ -64,7 +68,7 @@
 .email-link {
   text-decoration: none;
   color: #374151;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 500;
 }
 

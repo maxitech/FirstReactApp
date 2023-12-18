@@ -1,5 +1,4 @@
 import './Info.css';
-<Info className="css"></Info>;
 import profileImage from '../images/profile_pic.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';

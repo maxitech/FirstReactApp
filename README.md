@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is a simple React application that serves as a fictional personal portfolio. It showcases the developer's profile, interests, and contact information.
+This is a simple React application that serves as a fictional personal portfolio. It showcases the developer's profile, interests, and contact information
 
 ## Features
 
